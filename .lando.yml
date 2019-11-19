@@ -1,4 +1,0 @@
-name: renovations
-recipe: wordpress
-config:
-  webroot: .
